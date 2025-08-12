@@ -1,7 +1,7 @@
 dask==1.2.2
 ipython==7.4.0
 jupyterlab==0.35.3
-keras==2.2.4
+keras==3.11.0
 matplotlib==3.0.2
 mlfinlab==0.1.0
 numpy==1.16.1
